@@ -6,7 +6,8 @@ I’m developer with passionate about data science and data analysis with proble
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourishagahane55)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gourishagahane55@gmail.com) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gourishagahane55@gmail.com)
+ 
 ![Profile views](https://komarev.com/ghpvc/?username=gourigahane&style=for-the-badge)
 
 # 💻 Tech Stack:
