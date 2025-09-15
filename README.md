@@ -1,7 +1,13 @@
 ## Hi there 👋 Gourisha Gahane
 
-# 💫 About Me:
-I’m developer with passionate about data science and data analysis with problem solving skill and learning new technology
+# 💫 About Me: 
+
+🎓 MCA (Data Science) student at **Savitribai Phule Pune University**  
+💻 Skilled in: **Java, Python, C/C++, SQL, Web Development**  
+📊 Interests: **Data Analysis, Machine Learning, Problem Solving**  
+🚀 Currently learning: **Advanced Data Science and Web Frameworks**  
+📂 Check out my projects: *SQL Data Cleaning, Spotify Data Analysis, Tableau Dashboards*  
+🤝 Open to collaboration on **Data Science and Web Development projects**
 
 
 ## 🌐 Socials:
