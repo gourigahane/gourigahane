@@ -9,6 +9,22 @@
 📂 Check out my projects: *SQL Data Cleaning, Spotify Data Analysis, Tableau Dashboards*  
 🤝 Open to collaboration on **Data Science and Web Development projects**
 
+## 💭 My Thought  
+
+> “Unclear or dirty data is just like an overthinker’s mind — full of confusion and noise, where clarity is lost and positive results never emerge.”  
+>
+> Clean data, like a calm mind, leads to meaningful insights and better decisions. ✨  
+
+---
+
+## 🚀 Currently Working On  
+- Building projects in **Data Analysis** and **Machine Learning**  
+- Improving skills in **Python**, **Pandas**, and **SQL**  
+- Learning more about **AI model optimization**  
+
+---
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourishagahane55)
