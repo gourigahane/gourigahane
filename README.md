@@ -2,7 +2,7 @@
 
 # 💫 About Me: 
 
-🎓 MCA (Data Science) student at **Savitribai Phule Pune University**  
+🎓 MCA (Data Science) student 
 💻 Skilled in: **Java, Python, C/C++, SQL, Web Development**  
 📊 Interests: **Data Analysis, Machine Learning, Problem Solving**  
 🚀 Currently learning: **Advanced Data Science and Web Frameworks**  
