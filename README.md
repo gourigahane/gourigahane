@@ -1,4 +1,4 @@
-# Hi 👋 I'm Your Gourisha Gahane
+# Hi 👋 I'm Gourisha Gahane
 # 💫 About Me:
 🔭 **AI & Machine Learning Enthusiast | Python Developer**<br><br>I build intelligent systems and uncover insights from data using **Machine Learning and Data Analysis with Python**.<br><br>👯 I’m open to collaborating on **AI, Data Science, and Predictive Analytics projects**<br><br>🤝 Currently seeking opportunities to work on **model optimization, scalable ML systems, and large-scale data processing**<br><br>🌱 Learning and exploring **Deep Learning, NLP, and MLOps**<br><br>💬 Ask me about **Pandas, NumPy, Scikit-learn, Machine Learning workflows, and Data Visualization**<br><br>📊 Passionate about transforming raw data into **actionable insights and intelligent solutions**<br><br>⚡ **Fun fact:** I love discovering hidden patterns in data — every dataset tells a story waiting to be uncovered.<br><br>🚀 Always open to collaboration, learning, and building impactful AI solutions.<br>
 
